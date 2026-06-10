@@ -1,0 +1,14 @@
+# OS files
+   .DS_Store
+   Thumbs.db
+
+   # Editor / IDE
+   .vscode/
+   .idea/
+   *.swp
+
+   # Node — only matters if you later add a build step
+   node_modules/
+   dist/
+   .env
+   .env.local
